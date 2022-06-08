@@ -1,5 +1,5 @@
 # Test cases practice
-> In this exercise, I will try to understand how to test functions using Jest. This will be done with the test(), describe(), and describe.each() methods.
+> In this exercise, I will try to understand how to test functions using Jest. This will be done with the test, describe, and describe.each methods.
 
 ## Getting Started:
 To access and change the code on your computer (using GIT):
